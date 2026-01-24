@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Saurabh Singh! 👋
 
-<!--
-**Saurabh63948/Saurabh63948** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Full-Stack Developer | Backend Enthusiast
+I love building scalable web applications and solving complex architectural problems.
 
-Here are some ideas to get you started:
+- 🛠️ Currently working on: **freshlynow-backend**
+- 📚 Learning: Advanced System Design & Cloud Computing
+- 💬 Ask me about: **Node.js, TypeScript, and MongoDB**
+- 📫 Reach me at: [Tera Email Yahan Daal De]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Tech Stack
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+---
+
+### 📊 My GitHub Stats
+![Saurabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saurabh63948&show_icons=true&theme=radical)
