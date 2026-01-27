@@ -39,7 +39,7 @@ E-commerce frontend clone with product catalog, filters, and cart functionality.
 ### 📫 Connect with me
 - **Email:** [saurabh123mahi@gmail.com](mailto:saurabh123mahi@gmail.com)
 - **LinkedIn:** [linkedin.com/in/singh-saurabh07](https://linkedin.com/in/singh-saurabh07)
-- **Portfolio:** [Visit My Live Portfolio](https://saurabh63948.github.io/) *(Bhai agar portfolio link alag hai toh replace kar dena)*
+- **Portfolio:** [Visit My Live Portfolio]([https://saurabh63948.github.io/](https://todo-app-mlw5-git-main-saurabh-singhs-projects-98b1377c.vercel.app/)
 
 ---
 
