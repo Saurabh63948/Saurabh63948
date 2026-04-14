@@ -1,6 +1,6 @@
-# Hi there, I'm Saurabh Singh! 👋 
+# Hi there, I'm Saurabh Singh
 
-### 🚀 Frontend & Mobile App Developer
+###  Frontend & Mobile App Developer
 Passionate developer creating impactful digital experiences. I specialize in building responsive web applications and cross-platform mobile apps that deliver exceptional user experiences.
 
 ---
